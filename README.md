@@ -4,7 +4,8 @@ Portfolio personal de desarrollador web: tonos morados fantasmagóricos, detalle
 
 📸 Vista previa
 
-<img width="1445" height="696" alt="portfolio" src="https://github.com/user-attachments/assets/8de3d443-8135-4f90-aeed-3cafa1943eba" />
+<img width="1445" height="696" alt="portfolio" src="https://github.com/user-attachments/assets/196955f2-8109-4ae0-b75d-ce8cd2dc6e2f" />
+
 
 
 
